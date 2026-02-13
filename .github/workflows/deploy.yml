@@ -1,4 +1,4 @@
-name: salon restu
+name: Deploy Website CI/CD
 
 on:
   push:
